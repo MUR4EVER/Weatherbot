@@ -8,7 +8,7 @@ from translations import translations
 from translations import messages
 from aiogram.types import ReplyKeyboardRemove
 
-bot = Bot(token="6492070147:AAFLSH7sPcx-j8xC0iJpEvPerUPnBbQRiVg")
+bot = Bot(token="??????????")
 dp = Dispatcher(bot)
 
 LANGUAGES = {
